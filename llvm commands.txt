@@ -1,0 +1,2 @@
+clang -Xclang -dump-tokens
+clang -cc1 -dump-tokens
